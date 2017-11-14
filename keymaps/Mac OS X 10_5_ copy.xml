@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateAndroidProfilerToolWindow">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl meta t" />
@@ -9,6 +12,8 @@
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ParameterInfo" />
   <action id="RunCoverage">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
