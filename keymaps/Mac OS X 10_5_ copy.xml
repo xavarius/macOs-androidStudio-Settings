@@ -1,10 +1,14 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$SelectAll" />
   <action id="ActivateAndroidProfilerToolWindow">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
