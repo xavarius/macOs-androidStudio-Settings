@@ -5,7 +5,7 @@
         <entry key="'&amp;#8984; 1'" value="4" />
         <entry key="'&amp;#8984; 4'" value="1" />
         <entry key="'&amp;#8984; 6'" value="2" />
-        <entry key="'&amp;#8984; 9'" value="10" />
+        <entry key="'&amp;#8984; 9'" value="11" />
         <entry key="'F7'" value="1" />
         <entry key="'⇧F7'" value="1" />
         <entry key="'⇧⌘G' or '↑' or '⌃P' or '⇧⏎'" value="2" />
@@ -22,7 +22,7 @@
         <entry key="'⌘[' or '⌥⌘←' or 'Button4 Click'" value="13" />
         <entry key="'⌥⌘R'" value="2" />
         <entry key="'⌥⌘Z'" value="8" />
-        <entry key="'⌫'" value="9" />
+        <entry key="'⌫'" value="10" />
       </map>
     </option>
   </component>
