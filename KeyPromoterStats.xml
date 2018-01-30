@@ -23,12 +23,12 @@
         <entry key="'⌘F2'" value="5" />
         <entry key="'⌘F6'" value="1" />
         <entry key="'⌘F9'" value="20" />
-        <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="127" />
+        <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="129" />
         <entry key="'⌘V'" value="1" />
         <entry key="'⌘[' or '⌥⌘←' or 'Button4 Click'" value="27" />
         <entry key="'⌥F7'" value="3" />
         <entry key="'⌥⌘R'" value="7" />
-        <entry key="'⌥⌘Z'" value="29" />
+        <entry key="'⌥⌘Z'" value="32" />
         <entry key="'⌫'" value="10" />
       </map>
     </option>
