@@ -2,11 +2,11 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'&amp;#8984; 0'" value="2" />
+        <entry key="'&amp;#8984; 0'" value="4" />
         <entry key="'&amp;#8984; 1'" value="77" />
         <entry key="'&amp;#8984; 4'" value="3" />
         <entry key="'&amp;#8984; 5'" value="10" />
-        <entry key="'&amp;#8984; 6'" value="116" />
+        <entry key="'&amp;#8984; 6'" value="118" />
         <entry key="'&amp;#8984; 9'" value="59" />
         <entry key="'F6'" value="5" />
         <entry key="'F7'" value="3" />
@@ -19,7 +19,7 @@
         <entry key="'⇧⌘F8'" value="8" />
         <entry key="'⇧⌘G' or '↑' or '⌃P' or '⇧⏎'" value="11" />
         <entry key="'⇧⌘Z' or '⌥⇧⌫'" value="5" />
-        <entry key="'⌃D'" value="64" />
+        <entry key="'⌃D'" value="68" />
         <entry key="'⌃N'" value="2" />
         <entry key="'⌃R'" value="127" />
         <entry key="'⌃⇧C'" value="13" />
@@ -45,7 +45,7 @@
         <entry key="'⌥F7'" value="18" />
         <entry key="'⌥⌘R'" value="214" />
         <entry key="'⌥⌘Y'" value="9" />
-        <entry key="'⌥⌘Z'" value="76" />
+        <entry key="'⌥⌘Z'" value="77" />
         <entry key="'⌦' or '⌫' or '⌘⌫'" value="2" />
         <entry key="'⌫'" value="10" />
       </map>
