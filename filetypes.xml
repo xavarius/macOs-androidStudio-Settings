@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="adobeasdad" type="JSON" />
       <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
+      <mapping ext="appid-no-backup" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
