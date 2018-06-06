@@ -21,6 +21,9 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindPrevious" />
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
