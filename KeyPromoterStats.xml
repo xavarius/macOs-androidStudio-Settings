@@ -3,14 +3,14 @@
     <option name="stats">
       <map>
         <entry key="'&amp;#8984; 0'" value="4" />
-        <entry key="'&amp;#8984; 1'" value="79" />
+        <entry key="'&amp;#8984; 1'" value="80" />
         <entry key="'&amp;#8984; 4'" value="3" />
         <entry key="'&amp;#8984; 5'" value="16" />
         <entry key="'&amp;#8984; 6'" value="172" />
         <entry key="'&amp;#8984; 9'" value="62" />
         <entry key="'F6'" value="5" />
         <entry key="'F7'" value="3" />
-        <entry key="'F8'" value="408" />
+        <entry key="'F8'" value="409" />
         <entry key="'↑' or '⌃P' or '⇧⏎'" value="27" />
         <entry key="'⇧F6'" value="32" />
         <entry key="'⇧F7'" value="15" />
@@ -20,9 +20,9 @@
         <entry key="'⇧⌘G' or '↑' or '⌃P' or '⇧⏎'" value="11" />
         <entry key="'⇧⌘M'" value="7" />
         <entry key="'⇧⌘Z' or '⌥⇧⌫'" value="5" />
-        <entry key="'⌃D'" value="114" />
+        <entry key="'⌃D'" value="115" />
         <entry key="'⌃N'" value="2" />
-        <entry key="'⌃R'" value="143" />
+        <entry key="'⌃R'" value="144" />
         <entry key="'⌃⇧C'" value="14" />
         <entry key="'⌃⇧D'" value="11" />
         <entry key="'⌃⇧F'" value="14" />
@@ -49,7 +49,7 @@
         <entry key="'⌥↑'" value="2" />
         <entry key="'⌥↓'" value="1" />
         <entry key="'⌥⌘P'" value="2" />
-        <entry key="'⌥⌘R'" value="466" />
+        <entry key="'⌥⌘R'" value="467" />
         <entry key="'⌥⌘V'" value="1" />
         <entry key="'⌥⌘Y'" value="9" />
         <entry key="'⌥⌘Z'" value="84" />
