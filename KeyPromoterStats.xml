@@ -26,7 +26,7 @@
         <entry key="'⌃R'" value="192" />
         <entry key="'⌃⇧C'" value="15" />
         <entry key="'⌃⇧D'" value="12" />
-        <entry key="'⌃⇧F'" value="23" />
+        <entry key="'⌃⇧F'" value="24" />
         <entry key="'⌃⇧R'" value="155" />
         <entry key="'⌃⇧S' or '⌃⇧D'" value="1" />
         <entry key="'⌃⌘K'" value="6" />
@@ -59,7 +59,7 @@
         <entry key="'⌥⌘V'" value="1" />
         <entry key="'⌥⌘Y'" value="10" />
         <entry key="'⌥⌘Z'" value="88" />
-        <entry key="'⌦' or '⌫' or '⌘⌫'" value="3" />
+        <entry key="'⌦' or '⌫' or '⌘⌫'" value="4" />
         <entry key="'⌫'" value="10" />
       </map>
     </option>
