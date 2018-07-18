@@ -3,6 +3,7 @@
     <option name="customScope" value="SquareEnixScope" />
     <option name="defaultScopeName" value="SquareEnixScope" />
     <option name="SEARCH_SCOPE" value="SquareEnixScope" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,9 +13,11 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.java</mask>
       <mask>gr</mask>
       <mask>g</mask>
+      <mask>jav</mask>
+      <mask>java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
