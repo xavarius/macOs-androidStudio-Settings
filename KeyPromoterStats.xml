@@ -6,14 +6,14 @@
         <entry key="'&amp;#8984; 1'" value="108" />
         <entry key="'&amp;#8984; 4'" value="5" />
         <entry key="'&amp;#8984; 5'" value="30" />
-        <entry key="'&amp;#8984; 6'" value="236" />
-        <entry key="'&amp;#8984; 9'" value="76" />
+        <entry key="'&amp;#8984; 6'" value="237" />
+        <entry key="'&amp;#8984; 9'" value="78" />
         <entry key="'F2'" value="23" />
         <entry key="'F6'" value="8" />
         <entry key="'F7'" value="4" />
         <entry key="'F8'" value="478" />
         <entry key="'↑' or '⌃P' or '⇧⏎'" value="27" />
-        <entry key="'⇧F6'" value="42" />
+        <entry key="'⇧F6'" value="43" />
         <entry key="'⇧F7'" value="15" />
         <entry key="'⇧⌘''" value="2" />
         <entry key="'⇧⌘C'" value="2" />
@@ -40,7 +40,7 @@
         <entry key="'⌘D'" value="7" />
         <entry key="'⌘F2'" value="80" />
         <entry key="'⌘F6'" value="3" />
-        <entry key="'⌘F9'" value="338" />
+        <entry key="'⌘F9'" value="339" />
         <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="691" />
         <entry key="'⌘N'" value="1" />
         <entry key="'⌘P'" value="2" />
@@ -60,7 +60,7 @@
         <entry key="'⌥⌘V'" value="1" />
         <entry key="'⌥⌘Y'" value="10" />
         <entry key="'⌥⌘Z'" value="88" />
-        <entry key="'⌦' or '⌫' or '⌘⌫'" value="4" />
+        <entry key="'⌦' or '⌫' or '⌘⌫'" value="5" />
         <entry key="'⌫'" value="10" />
       </map>
     </option>
