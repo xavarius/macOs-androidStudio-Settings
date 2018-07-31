@@ -12,11 +12,19 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>gr</mask>
-      <mask>g</mask>
       <mask>jav</mask>
       <mask>java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>gr</mask>
+      <mask>gradle</mask>
+      <mask>gradl</mask>
+      <mask>grad</mask>
+      <mask>gra</mask>
+      <mask>g</mask>
     </recentFileMasks>
   </component>
 </application>
