@@ -5,13 +5,13 @@
         <entry key="'&amp;#8984; 0'" value="11" />
         <entry key="'&amp;#8984; 1'" value="119" />
         <entry key="'&amp;#8984; 4'" value="5" />
-        <entry key="'&amp;#8984; 5'" value="38" />
+        <entry key="'&amp;#8984; 5'" value="42" />
         <entry key="'&amp;#8984; 6'" value="256" />
         <entry key="'&amp;#8984; 9'" value="83" />
         <entry key="'F2'" value="23" />
         <entry key="'F6'" value="8" />
         <entry key="'F7'" value="4" />
-        <entry key="'F8'" value="487" />
+        <entry key="'F8'" value="497" />
         <entry key="'↑' or '⌃P' or '⇧⏎'" value="27" />
         <entry key="'⇧F6'" value="43" />
         <entry key="'⇧F7'" value="15" />
@@ -21,9 +21,9 @@
         <entry key="'⇧⌘G' or '↑' or '⌃P' or '⇧⏎'" value="11" />
         <entry key="'⇧⌘M'" value="18" />
         <entry key="'⇧⌘Z' or '⌥⇧⌫'" value="6" />
-        <entry key="'⌃D'" value="196" />
+        <entry key="'⌃D'" value="197" />
         <entry key="'⌃N'" value="3" />
-        <entry key="'⌃R'" value="263" />
+        <entry key="'⌃R'" value="265" />
         <entry key="'⌃⇧C'" value="16" />
         <entry key="'⌃⇧D'" value="12" />
         <entry key="'⌃⇧F'" value="25" />
@@ -40,9 +40,9 @@
         <entry key="'⌘A'" value="13" />
         <entry key="'⌘C'" value="4" />
         <entry key="'⌘D'" value="7" />
-        <entry key="'⌘F2'" value="82" />
+        <entry key="'⌘F2'" value="83" />
         <entry key="'⌘F6'" value="3" />
-        <entry key="'⌘F9'" value="368" />
+        <entry key="'⌘F9'" value="369" />
         <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="724" />
         <entry key="'⌘N'" value="1" />
         <entry key="'⌘P'" value="2" />
@@ -58,7 +58,7 @@
         <entry key="'⌥↑'" value="2" />
         <entry key="'⌥↓'" value="1" />
         <entry key="'⌥⌘P'" value="2" />
-        <entry key="'⌥⌘R'" value="893" />
+        <entry key="'⌥⌘R'" value="902" />
         <entry key="'⌥⌘V'" value="1" />
         <entry key="'⌥⌘Y'" value="10" />
         <entry key="'⌥⌘Z'" value="88" />
