@@ -6,7 +6,7 @@
         <entry key="'&amp;#8984; 1'" value="121" />
         <entry key="'&amp;#8984; 4'" value="6" />
         <entry key="'&amp;#8984; 5'" value="49" />
-        <entry key="'&amp;#8984; 6'" value="258" />
+        <entry key="'&amp;#8984; 6'" value="259" />
         <entry key="'&amp;#8984; 9'" value="87" />
         <entry key="'F2'" value="23" />
         <entry key="'F6'" value="8" />
@@ -23,10 +23,10 @@
         <entry key="'⇧⌘Z' or '⌥⇧⌫'" value="6" />
         <entry key="'⌃D'" value="214" />
         <entry key="'⌃N'" value="3" />
-        <entry key="'⌃R'" value="295" />
+        <entry key="'⌃R'" value="299" />
         <entry key="'⌃⇧C'" value="16" />
         <entry key="'⌃⇧D'" value="12" />
-        <entry key="'⌃⇧F'" value="29" />
+        <entry key="'⌃⇧F'" value="35" />
         <entry key="'⌃⇧R'" value="179" />
         <entry key="'⌃⇧S' or '⌃⇧D'" value="1" />
         <entry key="'⌃⌘K'" value="7" />
@@ -40,7 +40,7 @@
         <entry key="'⌘A'" value="14" />
         <entry key="'⌘C'" value="5" />
         <entry key="'⌘D'" value="7" />
-        <entry key="'⌘F2'" value="83" />
+        <entry key="'⌘F2'" value="84" />
         <entry key="'⌘F6'" value="3" />
         <entry key="'⌘F9'" value="374" />
         <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="765" />
@@ -60,9 +60,9 @@
         <entry key="'⌥⌘P'" value="2" />
         <entry key="'⌥⌘R'" value="1068" />
         <entry key="'⌥⌘V'" value="1" />
-        <entry key="'⌥⌘Y'" value="11" />
+        <entry key="'⌥⌘Y'" value="12" />
         <entry key="'⌥⌘Z'" value="89" />
-        <entry key="'⌦' or '⌫' or '⌘⌫'" value="5" />
+        <entry key="'⌦' or '⌫' or '⌘⌫'" value="6" />
         <entry key="'⌫'" value="10" />
       </map>
     </option>
