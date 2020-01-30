@@ -1,5 +1,4 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="$SelectAll" />
   <action id="ActivateAndroidProfilerToolWindow">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -11,7 +10,7 @@
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
   <action id="Annotate">
-    <keyboard-shortcut first-keystroke="meta a" />
+    <keyboard-shortcut first-keystroke="shift a" />
   </action>
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
@@ -21,6 +20,9 @@
   </action>
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
@@ -63,6 +65,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.Log.AnnotateRevisionAction">
+    <keyboard-shortcut first-keystroke="shift a" />
   </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta m" />
