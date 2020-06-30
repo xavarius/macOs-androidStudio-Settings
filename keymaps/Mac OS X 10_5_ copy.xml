@@ -10,7 +10,7 @@
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
   <action id="Annotate">
-    <keyboard-shortcut first-keystroke="shift a" />
+    <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
@@ -35,6 +35,7 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
+  <action id="GotoAction" />
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
