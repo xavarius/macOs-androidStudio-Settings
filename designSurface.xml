@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="componentlibrary/src/main/res/drawable/ic_check_small_checked.xml" value="0.21875" />
+        <entry key="componentlibrary/src/main/res/drawable/ic_search.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
