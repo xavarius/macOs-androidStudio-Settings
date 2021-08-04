@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/fragment_search_toggle.xml" value="0.35643115942028986" />
         <entry key="componentlibrary/src/main/res/drawable/ic_check_small_checked.xml" value="0.21875" />
         <entry key="componentlibrary/src/main/res/drawable/ic_search.xml" value="0.1" />
       </map>
