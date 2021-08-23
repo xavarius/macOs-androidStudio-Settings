@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_job_recommendation_list.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_my_searches.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_search_toggle.xml" value="0.35643115942028986" />
         <entry key="componentlibrary/src/main/res/drawable/ic_check_small_checked.xml" value="0.21875" />
         <entry key="componentlibrary/src/main/res/drawable/ic_search.xml" value="0.1" />
